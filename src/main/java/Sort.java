@@ -20,10 +20,10 @@ public class Sort {
         }
 
         System.out.println("Array before bubble sort:");
-        System.out.println(Arrays.toString(bubbleArray));
+//        System.out.println(Arrays.toString(bubbleArray));
         bubbleSort(bubbleArray);
         System.out.println("Array after bubble sort:");
-        System.out.println(Arrays.toString(bubbleArray));
+//        System.out.println(Arrays.toString(bubbleArray));
         System.out.println();
 
 //        System.out.println("Array before selection sort:");

@@ -14,6 +14,8 @@ public class Application extends JFrame {
 
 	public Application() {
 		super("Window");
+
+		asdf
 		
 		setSize(300,300);
 		setVisible(true);
